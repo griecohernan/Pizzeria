@@ -71,7 +71,7 @@ nav ul li a {
 .botones{
     display: flex;
     justify-content: center;
-    padding-bottom: 50px;
+    padding-bottom: 80px;
 }
 
 .botones a {
@@ -251,6 +251,7 @@ footer .contenedor{
 footer svg {
     margin:0 5px;
     margin-left: 0;
+    color: #fff;
 }
 
 .seccion2 p ,.seccion3 p{
@@ -419,6 +420,7 @@ footer .contenedor{
 .redes {
     margin:15px 0;
 }
+
 
 .seccion2 p, .seccion3 p {
     margin: 15px 0;
